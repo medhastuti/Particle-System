@@ -10,7 +10,7 @@ It **detects finger gestures** and reflects them dynamically as interactive part
 **https://particle-system-3d.vercel.app/**
 
 <p align="center">
-  <img src="./particle-system-preview" width="90%" />
+  <img src="./particle-system-preview.jpg" width="90%" />
 </p>
 
 ---
